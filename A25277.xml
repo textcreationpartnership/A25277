@@ -1,0 +1,1080 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A search after wit, or, A visitation of the authors in answer to the late Search after claret, or, Visitation of the vintners / by an under-drawer at the --'s-Head-Tavern in -- Gate-Street.</title>
+            <author>Under-drawer at the --'s-Head-Tavern in -- Gate-Street.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25277</idno>
+            <idno type="STC">Wing A2991</idno>
+            <idno type="STC">ESTC R19151</idno>
+            <idno type="EEBO-CITATION">13053493</idno>
+            <idno type="OCLC">ocm 13053493</idno>
+            <idno type="VID">96974</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96974)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 406:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A search after wit, or, A visitation of the authors in answer to the late Search after claret, or, Visitation of the vintners / by an under-drawer at the --'s-Head-Tavern in -- Gate-Street.</title>
+                  <author>Under-drawer at the --'s-Head-Tavern in -- Gate-Street.</author>
+               </titleStmt>
+               <extent>[4], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Hawkins,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ames, Richard, d. 1693. --  Search after claret.</term>
+               <term>English wit and humor.</term>
+               <term>Wine --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96974:1"/>
+            <pb facs="tcp:96974:1"/>
+            <p>A Search after WIT; OR, A VISITATION OF THE AUTHORS: IN ANSWER TO <hi>The late Search</hi> AFTER CLARET; Or VISITATION of the VINTNERS.</p>
+            <p>By an <hi>
+                  <g ref="char:V">Ʋ</g>nder-Drawer</hi> at the —'<hi>s</hi>-Head-Tavern in — Gate-Street.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Hawkins,</hi> 1691.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96974:2"/>
+            <pb facs="tcp:96974:2"/>
+            <head>THE DRAWER's DEDICATION.</head>
+            <lg>
+               <l>TO you the chief <hi>Grievance</hi> and <hi>Plague</hi> of the <hi>Time,</hi>
+               </l>
+               <l>Heavy Thraſhers of <hi>Proſe,</hi> and Tormentors of <hi>Rhime.</hi>
+               </l>
+               <l>You <hi>Play-Wights</hi> and <hi>Authors,</hi> with all their Attendance,</l>
+               <l>The <hi>Locuſts</hi> of <hi>Egypt</hi> were a <hi>civiller</hi> Vengeance.</l>
+            </lg>
+            <lg>
+               <l>From him who each Action o'th' <hi>Publick miſconſtrues,</hi>
+               </l>
+               <l>To the <hi>Makers</hi> of <hi>Devils,</hi> and <hi>Sermons,</hi> and <hi>Monſters;</hi>
+               </l>
+               <l>Than whom there's no <hi>Vulture</hi> diſcover can further,</l>
+               <l>By Instinct, the Approach of <hi>Dire Battle</hi> and <hi>Murder.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To each politick <hi>Stroker,</hi> or hungry <hi>Backbiter,</hi>
+               </l>
+               <l>From the <hi>Bawdy Song</hi>-Scribler, to the <hi>Godly Book</hi>-Writer:</l>
+               <l>Be their <hi>Works</hi> or their <hi>Fortunes,</hi> or <hi>lucky,</hi> or <hi>ſcurvy;</hi>
+               </l>
+               <l>From <hi>great</hi> Mr. <hi>Bays</hi> down to <hi>little</hi> Mr. <hi>D—y.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:96974:3"/>
+               <l>To <hi>Satyrical Dick,</hi> who has us'd us ſo kindly,</l>
+               <l>Though I hope, Mr. <hi>Author,</hi> to ben't far behind you:</l>
+               <l>And 'twere beſt that your <hi>Back</hi> you'd prepare for a humming,</l>
+               <l>The <hi>Drawer</hi> most humbly <hi>pre—</hi>
+                  <note n="*" place="margin">He would have ſaid <hi>Preſents,</hi> but the Bell ringing on the ſudden, unluckily ſtopp'd him in the middle of the Word.</note>
+               </l>
+            </lg>
+            <l>
+               <hi>Coming, Sir, Coming!</hi>
+            </l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:96974:3"/>
+            <head>A Search after WIT: OR, A VISITATION OF THE AUTHORS. By a. DRAWER, <hi>&amp;c.</hi>
+            </head>
+            <lg n="1">
+               <head>I.</head>
+               <l>FAther <hi>Ben!</hi> For thy gentle Aſſiſtance I call,</l>
+               <l>Now Toping above in <hi>Apollo</hi>'s <hi>Whitehall,</hi>
+               </l>
+               <l>Where <hi>Sack,</hi> the true <hi>Nectar,</hi> for ever you drink:</l>
+               <l>And though the fair nimble heel'd <hi>Ganimede</hi> skink,</l>
+               <l>On us, <hi>mortal Drawers,</hi> you ſometimes do think.</l>
+            </lg>
+            <lg n="2">
+               <pb n="2" facs="tcp:96974:4"/>
+               <head>II.</head>
+               <l>As there from bad <hi>Wines,</hi> and dull <hi>Criticks</hi> you're <hi>ſafe.</hi>
+               </l>
+               <l>As ever you lov'd our Progenitor <hi>Ralph,</hi>
+                  <note n="*" place="margin">A <hi>Drawer</hi> that <hi>Ben Johnſon</hi> uſed to remember in his Prayers.</note>
+               </l>
+               <l>Look down for a Moment, and help me to <hi>ſwinge</hi>
+               </l>
+               <l>The <hi>Blaſphemers of Taverns</hi> with a luſty Revenge.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>The <hi>King of</hi> Moroco'<hi>s, and</hi> Bantam'<hi>s Relation,</hi>
+               </l>
+               <l>Has <hi>plagu'd</hi> us of late with a damn'd <hi>Viſitation:</hi>
+               </l>
+               <l>We'll appeal to the <hi>World,</hi> if it is'nt very fit;</l>
+               <l>Since he'll <hi>ſeurch</hi> for our <hi>Charet,</hi> we ſhoud <hi>ſearch</hi> for his <hi>Wit.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Firſt obſerve but his Sign — but not gaze <hi>unaware</hi>
+               </l>
+               <l>On Sir <hi>Courtly</hi>'s <hi>ſweet Face</hi> — ſo killing, ſo <hi>fair,</hi>
+               </l>
+               <l>That with his <hi>Reputation</hi> it well may <hi>compare.</hi>
+               </l>
+               <l>If he has <hi>Wit,</hi> ſure he has not enough on't to ſpare it;</l>
+               <l>For who ever ſearch'd a <hi>Black Jack</hi> to find <hi>Claret?</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>But leſt we ſhould our <hi>Diſappointment</hi> deplore,</l>
+               <l>He has <hi>Singing,</hi> and <hi>Dancing,</hi> and <hi>Stories</hi> good ſtore:</l>
+               <l>But <hi>Wit</hi> from <hi>Jack-Pudding,</hi> as well you might hope:</l>
+               <l>Come <hi>pierce t'other Hogſhead;</hi> for here's not a <hi>drop.</hi>
+               </l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Not <hi>Wit,</hi> Sir —No, <hi>Wit,</hi> Sir! How that, Sir, d'ye prove?</l>
+               <l>Here's <hi>Sylvia's Revenge,</hi> Sir, and the <hi>Follies of Love:</hi>
+               </l>
+               <l>Sure theſe you ne'er read, Sir, if no <hi>Wit</hi> you e'er ſaw there.</l>
+               <l>
+                  <hi>'Nouns! cries out St.</hi> Ph—ps, <hi>little</hi> Dick <hi>too turned Author:</hi>
+               </l>
+            </lg>
+            <lg n="7">
+               <pb n="3" facs="tcp:96974:4"/>
+               <head>VII.</head>
+               <l>Then firing a <hi>Volley</hi> of <hi>half Oaths,</hi> and <hi>compleat Ones;</hi>
+               </l>
+               <l>He heartily ſwears both by <hi>little</hi> and <hi>great Ones;</hi>
+               </l>
+               <l>They may talk what they will, but there ne'er was a <hi>Satyr</hi>
+               </l>
+               <l>Since <hi>His</hi> againſt <hi>Hypocrites</hi> writ, wou'd hold <hi>Water.</hi>
+               </l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>But <hi>Dragon grows old,</hi> and his <hi>Wits</hi> he has loſt;</l>
+               <l>Speak <hi>ſoftly,</hi> or you'll find he is <hi>young</hi> to your <hi>Cost:</hi>
+               </l>
+               <l>He has yet a <hi>Colt's Tooth,</hi> whate'er you ſuppoſe,</l>
+               <l>And ſomething beſides — a <hi>Jolly-Red — Jolly Red-Noſe.</hi>
+               </l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>I'd fain in ſome <hi>Method</hi> my Subject purſue;</l>
+               <l>But that I'm affraid I never ſhall do:</l>
+               <l>For your <hi>Authors,</hi> like <hi>Tartars,</hi> are as light as a <hi>Feather,</hi>
+               </l>
+               <l>And <hi>vaniſh</hi> like <hi>Jack-a-Lent's, Satan knows whither.</hi>
+               </l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>No <hi>Lodging</hi> they uſe, but true <hi>Brethren o'th Road,</hi>
+               </l>
+               <l>Like <hi>Pilgrims</hi> and <hi>Gypſies,</hi> they all <hi>lie abroad,</hi>
+               </l>
+               <l>Unleſs if for <hi>Nothing</hi> the <hi>Landlord</hi> will ſpare it,</l>
+               <l>Now and then they <hi>Pig into</hi> a <hi>Barn,</hi> or a <hi>Garret.</hi>
+               </l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Mr. <hi>Reader</hi> may <hi>ſmile</hi> as he pleaſes, or <hi>grumble;</hi>
+               </l>
+               <l>But muſt take 'em like <hi>Fagots,</hi> as out they will <hi>tumble:</hi>
+               </l>
+               <l>Stand clear of their <hi>Dulneſs,</hi> and their <hi>Wit</hi> won't <hi>ſurprize us;</hi>
+               </l>
+               <l>And who firſt ſhou'd <hi>Trump</hi> up, but the <hi>Parabolizers?</hi>
+               </l>
+            </lg>
+            <lg n="12">
+               <pb n="4" facs="tcp:96974:5"/>
+               <head>XII.</head>
+               <l>Poor <hi>B — aw,</hi> thy <hi>Magpye</hi>'s of late gone aſtray,</l>
+               <l>And for fear of a <hi>Cage,</hi> is <hi>hopp'd out of the way;</hi>
+               </l>
+               <l>Nor is it ſo ſtrange, though <hi>Puppies</hi> will ſcoff,</l>
+               <l>That for fear of the <hi>Mouſe-Trap</hi> the <hi>Shark</hi> is rubb'd off.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>Who for <hi>Wit</hi> in a <hi>Ballad</hi> of <hi>Top-knots</hi> wou'd ſeek,</l>
+               <l>Tho' the <hi>Author,</hi> like <hi>Hudibraſs,</hi> rattles out <hi>Greek?</hi>
+               </l>
+               <l>Who e'er heard a <hi>Toad ſing,</hi> or a <hi>Nightingale croak;</hi>
+               </l>
+               <l>Or one ſingle <hi>wiſe Word</hi> that a <hi>Raven</hi> e'er ſpoke,</l>
+               <l>Though the <hi>Capitol</hi> once was preſerv'd by a <hi>Gander?</hi>
+               </l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>And 'troth well remember'd;—<hi>How is't Mr.</hi> Vander?</l>
+               <l>There's your <hi>Man</hi> — if there be <hi>Wit</hi> in the <hi>City,</hi> he has it</l>
+               <l>In two <hi>Buſhels</hi> of <hi>Letters</hi> a <hi>Week</hi> for his<note n="*" place="margin">Athenian <hi>Gazett.</hi>
+                  </note> 
+                  <hi>Gazett</hi>
+               </l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>He muſt be an <hi>Alderman</hi> by his <hi>Invention;</hi>
+               </l>
+               <l>For he keeps the <hi>Ten Quires</hi> of <hi>Authors</hi> in <hi>Penſion:</hi>
+               </l>
+               <l>This <hi>Brother,</hi> that <hi>Kinſman,</hi> this <hi>Friend,</hi> and that <hi>Cozen;</hi>
+               </l>
+               <l>Tell 'em out he that can,—<hi>One,-Two,-Three,</hi>-and a Dozen.</l>
+            </lg>
+            <lg n="16">
+               <head>XVI</head>
+               <l>Firſt enter Sir <hi>Aſtrophel,</hi> Plodding, and <hi>Drudging,</hi>
+               </l>
+               <l>In Anſwering of <hi>Levi,</hi> and Mauling of <hi>T—n;</hi>
+               </l>
+               <l>Still <hi>adoring</hi> his <hi>Stella's</hi> fair <hi>Hand,</hi> and fair <hi>Glove;</hi>
+               </l>
+               <l>Tho' thereby but a <hi>Coxcomb</hi> himſelf he will prove:</l>
+               <l>For who that has <hi>Wit,</hi> wou'd be ever in <hi>Love?</hi>
+               </l>
+            </lg>
+            <lg n="17">
+               <pb n="5" facs="tcp:96974:5"/>
+               <head>XVII.</head>
+               <l>Next comes the <hi>Athenian Inviſible Author,</hi>
+               </l>
+               <l>With his <hi>Face</hi> in a <hi>Veil,</hi> like the <hi>Jews Legiſlator;</hi>
+               </l>
+               <l>Among Ten Thouſand more, I One <hi>Query</hi> wou'd make him,</l>
+               <l>That's, <hi>Where were his Brains at this Task's <g ref="char:V">Ʋ</g>ndertaking?</hi>
+               </l>
+            </lg>
+            <lg n="18">
+               <head>XVIII.</head>
+               <l>Not a <hi>Fool,</hi> or a <hi>Wit,</hi> let him do what he can, Sir,</l>
+               <l>But will ſend him <hi>more Queſtions than e'er he can anſwer;</hi>
+               </l>
+               <l>Though like other <hi>Caſe-ſplitters</hi> of the ſelf-ſame <hi>Community,</hi>
+               </l>
+               <l>He'll refer what's <hi>too hard</hi> till <hi>another Opportunity.</hi>
+               </l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>Nay prithee Friend <hi>Vander,</hi>— thou doſt not do fairly,</l>
+               <l>Thus to take away Trade from <hi>B—ſs,</hi> and <hi>Shirley;</hi>
+               </l>
+               <l>This ne'er will hear more from his <hi>Caſes of Conſcience,</hi>
+               </l>
+               <l>And the t'others <hi>Peny-Sermons</hi> will all be <hi>flat Non-ſenſe.</hi>
+               </l>
+            </lg>
+            <lg n="20">
+               <head>XX.</head>
+               <l>Now thou'rt right <hi>Jack of all Trades,</hi> tho' the laſt's but a <hi>mean</hi> one</l>
+               <l>To be <hi>Groom of the Stool</hi> to the <hi>Orac'lous Athenian;</hi>
+               </l>
+               <l>And when e'er he'll be pleas'd his <hi>Butt-End</hi> to diſcover,</l>
+               <l>Bring him <hi>Paper</hi> ſufficient to <hi>wipe him all over.</hi>
+               </l>
+            </lg>
+            <lg n="21">
+               <head>XXI.</head>
+               <l>Step to the <hi>next Door</hi> if you'd hear a good <hi>Lecture,</hi>
+               </l>
+               <l>Or <hi>Ichabod</hi>'s <hi>Groans</hi> from the famous <hi>Reflecter;</hi>
+               </l>
+               <l>But he'll not be <hi>diſturb'd</hi> for any <hi>Occaſion,</hi>
+               </l>
+               <l>Since he's buſie in <hi>Bills</hi> for the <hi>Good of the Nation.</hi>
+               </l>
+            </lg>
+            <lg n="22">
+               <pb n="6" facs="tcp:96974:6"/>
+               <head>XXII.</head>
+               <l>He had lately a <hi>Call,</hi> though the <hi>Step</hi> was o'th' <hi>longest,</hi>
+               </l>
+               <l>To <hi>watch</hi> all the <hi>Motions</hi> of the <hi>Princes in Congreſs;</hi>
+               </l>
+               <l>So <hi>grave,</hi> and ſo <hi>old,</hi> and ſo <hi>full</hi> of the <hi>Matter,</hi>
+               </l>
+               <l>And amongſt his <hi>hot Brains</hi> the <hi>Notions</hi> ſo clatter,</l>
+               <l>That he rather deſerves our <hi>Pity</hi> than <hi>Laughter.</hi>
+               </l>
+            </lg>
+            <lg n="23">
+               <head>XXIII.</head>
+               <l>When <hi>Lud</hi> firſt built <hi>London,</hi> old Stories declare</l>
+               <l>The <hi>Sacks</hi> ſtood at <hi>Cornhill,</hi> and <hi>Wheat</hi> was ſold there;</l>
+               <l>
+                  <hi>Stocks-Market</hi> for <hi>Apples,</hi> and <hi>Herbs,</hi> and ſuch <hi>Ware;</hi>
+               </l>
+               <l>And the <hi>Poultry</hi> a <hi>Hen-Coop</hi> for the <hi>Shrieves,</hi> and <hi>Lord Mayor.</hi>
+               </l>
+            </lg>
+            <lg n="24">
+               <head>XXIV.</head>
+               <l>The <hi>Firſt</hi> long ago its <hi>Office</hi> did loſe;</l>
+               <l>But the <hi>Laſt</hi> of <hi>old Cuſtoms</hi> yet <hi>ſomething</hi> will uſe;</l>
+               <l>
+                  <hi>Againſt all the reſt,</hi> and <hi>each other</hi> ſtill <hi>pecking</hi>
+               </l>
+               <l>As well the <hi>old Cock,</hi> as the <hi>ſprightly young Chicken;</hi>
+               </l>
+               <l>Nor e'er will be quiet while they've left <hi>Spur</hi> or <hi>Neck on.</hi>
+               </l>
+            </lg>
+            <lg n="25">
+               <head>XXV.</head>
+               <l>Sure no <hi>ſingle Dulneſs</hi> on <hi>Earth</hi> will ſuffice</l>
+               <l>For ſuch bleſſed <hi>Writers</hi> as there <hi>Authoriz'd;</hi>
+               </l>
+               <l>How they order the Matter, I cannot deviſe,</l>
+               <l>Except <hi>one</hi> finds the <hi>Nonſenſe,</hi> and <hi>t'other</hi> finds <hi>Lies.</hi>
+               </l>
+            </lg>
+            <lg n="26">
+               <head>XXVI.</head>
+               <l>But I'll fairly <hi>rub off,</hi> for ſear e'er I go</l>
+               <l>They ſhould take their Leaves of me with a kind <hi>Starring-Blow:</hi>
+               </l>
+               <l>And who next ſhould I meet, or my <hi>Eye-ſight</hi> is faſſe,</l>
+               <l>But the little <hi>new Auth'reſs, Poetical</hi> Alce?</l>
+            </lg>
+            <lg n="27">
+               <pb n="7" facs="tcp:96974:6"/>
+               <head>XXVII.</head>
+               <l>And is't all come to this—When at <hi>Oxford</hi> ſhe's <hi>undone,</hi>
+               </l>
+               <l>With whole <hi>Dung-Carts</hi> of <hi>Doggrel</hi> to <hi>plague</hi> us at <hi>London:</hi>
+               </l>
+               <l>Yet like a <hi>true Wit</hi> in <hi>great things</hi> ſhe miſcarry'd;</l>
+               <l>For who but a <hi>Wit ſuch a Wit</hi> would have <hi>marry'd?</hi>
+               </l>
+            </lg>
+            <lg n="28">
+               <head>XXVIII.</head>
+               <l>Calling in at St. <hi>Paul</hi>'s, I a certain <hi>Shop</hi> harp'd on,</l>
+               <l>Where lay 20 <hi>Plays</hi> that were printed for <hi>K—ton;</hi>
+               </l>
+               <l>But unleſs by the <hi>Title</hi> you chanc'd to diſcern 'em,</l>
+               <l>For their Wit, you'd miſtaken a <hi>Play</hi> for a <hi>Sermon:</hi>
+               </l>
+               <l>But what's that to the purpoſe, if <hi>Eſtates</hi> they can get;</l>
+               <l>Their <hi>Search</hi> is for <hi>Money,</hi> and mine is for <hi>Wit.</hi>
+               </l>
+            </lg>
+            <lg n="29">
+               <head>XXIX.</head>
+               <l>Then <hi>farewell</hi> old <hi>Bellarmine, Paſquez</hi> and <hi>Suarez!</hi>
+               </l>
+               <l>Farewel you <hi>old Gloſſes</hi> and <hi>new Commentaries!</hi>
+               </l>
+               <l>Farewel all at once, ſince your <hi>Brains</hi> are no quicker,</l>
+               <l>From the ragged <hi>Verſe-Tagger,</hi> to the rich <hi>Country-Vicar.</hi>
+               </l>
+            </lg>
+            <lg n="30">
+               <head>XXX.</head>
+               <l>We'll e'en to the <hi>Play-houſe</hi>— there ſure we ſhall find it;</l>
+               <l>For they tell us,—they <hi>live by their Wits,</hi> if you mind it.<note n="*" place="margin">Alluding to the Motto at the Play-houſe, <hi>Viviter Ingenio.</hi>
+                  </note>
+               </l>
+               <l>No wonder, cries one, they then are as <hi>poor</hi>
+               </l>
+               <l>As a <hi>modeſt fac'd Bully,</hi> or an <hi>ugly old Whore.</hi>
+               </l>
+            </lg>
+            <lg n="31">
+               <head>XXXI.</head>
+               <l>Let's begin with <hi>Squire</hi> Laureat, ſince ſure 'twould be ſtrange,</l>
+               <l>If to <hi>ſo many Guts,</hi> Nature gave him <hi>no Brains:</hi>
+               </l>
+               <l>And leſt <hi>Nonſenſe</hi> and <hi>Noiſe</hi> for <hi>true Wit</hi> ſhould o'erpow'r us,</l>
+               <l>We'll ſtep in for <hi>Relief,</hi> to his <hi>Play,</hi> call'd the <hi>Scowrers.</hi>
+               </l>
+            </lg>
+            <lg n="32">
+               <pb n="8" facs="tcp:96974:7"/>
+               <head>XXXII.</head>
+               <l>This 'tis to turn <hi>Rhymer</hi> without <hi>Nature</hi>'s <hi>leave.</hi>
+               </l>
+               <l>And the <hi>Town</hi> with <hi>Poetical Titles</hi> deceive;</l>
+               <l>Since he left honeſt <hi>Proſe,</hi> the <hi>old Stroke</hi> he <hi>ne'er hit,</hi>
+               </l>
+               <l>And is equally admir'd for his <hi>Shape</hi> and his <hi>Wit.</hi>
+               </l>
+            </lg>
+            <lg n="33">
+               <head>XXXIII.</head>
+               <l>And was it for him, that old <hi>de Jure — Bays,</hi>
+               </l>
+               <l>With his <hi>Horus,</hi> and his <hi>Panthers<g ref="char:punc">▪</g>
+                  </hi> was turn'd out to <hi>graze?</hi>
+               </l>
+               <l>He had better have ſtaid, and both writ at a Time,</l>
+               <l>That one might find <hi>Wit,</hi> and t'other find <hi>Rhyme.</hi>
+               </l>
+            </lg>
+            <lg n="34">
+               <head>XXXIV.</head>
+               <l>What Dryden <hi>want Wit!</hi> cries a huffing <hi>old Spark?</hi>
+               </l>
+               <l>Thus <hi>Curs</hi> at <hi>Dame</hi> Luna for Envy will <hi>bark,</hi>
+               </l>
+               <l>Or <hi>Glow-worms</hi> pretend that the <hi>Sunſhine</hi> is dark?—</l>
+               <l>Your <hi>Pardon,</hi> and Thanks for your courteous <hi>Remark.</hi>
+               </l>
+            </lg>
+            <lg n="35">
+               <head>XXXV.</head>
+               <l>I am better <hi>informed,</hi> or I ſpoke it in <hi>Haste,</hi>
+               </l>
+               <l>A <hi>Poet,</hi> like a <hi>Diſputant</hi>'s ſometimes <hi>too fast:</hi>
+               </l>
+               <l>If there ever was <hi>Wit</hi> in the <hi>Times</hi> that are <hi>past</hi>
+               </l>
+               <l>Or <hi>preſent,</hi> in Poems, in Books, or on Stages,</l>
+               <l>In the eloquent <hi>Roman,</hi> or <hi>Grecian Ages.</hi>
+               </l>
+            </lg>
+            <lg n="36">
+               <head>XXXVI.</head>
+               <l>In <hi>Johnſon,</hi> or <hi>Davenant,</hi> or <hi>Boileau,</hi> or <hi>Donne,</hi>
+               </l>
+               <l>He has it, he <hi>Books</hi> it, <hi>Slapdaſh 'tis his own:</hi>
+               </l>
+               <l>Nor is't his <hi>Religion</hi> alone that <hi>ſurprizes;</hi>
+               </l>
+               <l>For his <hi>Wit</hi> is like <hi>that of all Nations and Size<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </l>
+            </lg>
+            <lg n="37">
+               <pb n="9" facs="tcp:96974:7"/>
+               <head>XXXVII.</head>
+               <l>At <hi>D</hi>—'s New <hi>Play</hi> I next thought fit to call,</l>
+               <l>Where the Maſters of Legs<note n="*" place="margin">
+                     <hi>Dancing Maſters,</hi> who are well enough expoſed in his laſt new Comedy.</note> he <hi>ſans merry</hi> does mawl:</l>
+               <l>So <hi>nimble,</hi> ſo clever, ſo <hi>Aapper</hi> an <hi>Elf,</hi>
+               </l>
+               <l>I always till now thought he had been one himſelf.</l>
+            </lg>
+            <lg n="38">
+               <head>XXXVIII.</head>
+               <l>There's no Man upon <hi>Earth,</hi> that can pleaſe a <hi>Laſs</hi> better</l>
+               <l>With an <hi>eaſie ſoft Billet,</hi> fine <hi>Song, or</hi> fine <hi>Letter.</hi>
+               </l>
+               <l>But if you ask him for <hi>Wit,</hi> he muſt ſtill be your <hi>Debtor.</hi>
+               </l>
+               <l>
+                  <hi>Fa, la, la,</hi> he replies, pray expect no <hi>Wit</hi> from us;</l>
+               <l>For we ſpend all our <hi>Stock</hi> every <hi>Wedneſday</hi> on <hi>Momus.</hi>
+               </l>
+            </lg>
+            <lg n="39">
+               <head>XXXIX.</head>
+               <l>Poor <hi>Mortals!</hi> What different <hi>Fortunes</hi> befal us,</l>
+               <l>Poor <hi>Authors! Hard Fate!</hi> ſo unkindly to <hi>maul</hi> us</l>
+               <l>Rouſe, <hi>Elkanah;</hi> rouſe in the Name of <hi>Crimhallaz:</hi>
+               </l>
+               <l>Since thy <hi>Guts</hi> are <hi>ſtill croaking,</hi> and thy <hi>Brains</hi> are ſtill <hi>chiming,</hi>
+               </l>
+               <l>
+                  <hi>Plague</hi> the <hi>Stage</hi> yet again with thy huffing and rhiming.</l>
+            </lg>
+            <lg n="40">
+               <head>XL.</head>
+               <l>None will ask* thee for <hi>Wit;</hi> for all know that the <hi>Creature</hi>
+               </l>
+               <l>Had never yet any ſuch thing in <hi>his Nature:</hi>
+               </l>
+               <l>But what will take more from the <hi>Gazette</hi> Purloyn-a,</l>
+               <l>Some <hi>raw Head and bloody Bones Tales of</hi> Amboyna!<note n="*" place="margin">The Hiſtory of <hi>Amboyna</hi>—reprinted at the then Prince's landing.</note>
+               </l>
+            </lg>
+            <lg n="41">
+               <head>XLI.</head>
+               <l>If the <hi>Brats</hi> of the <hi>Brain</hi> for <hi>Damnation</hi> are <hi>fated;</hi>
+               </l>
+               <l>And if e'er they are <hi>born,</hi> they are all <hi>reprobated:</hi>
+               </l>
+               <pb n="10" facs="tcp:96974:8"/>
+               <l>There's a <hi>Trick</hi> too <hi>for that;</hi> and were't my Caſe, I'd rather</l>
+               <l>
+                  <hi>Hire</hi> one of the <hi>Players</hi> to ſtand for their <hi>Father.</hi>
+               </l>
+            </lg>
+            <lg n="42">
+               <head>XLII.</head>
+               <l>Poor <hi>Nat,</hi> thou haſt loſt both thy <hi>Reaſon</hi> and <hi>Wit;</hi>
+               </l>
+               <l>Yet the <hi>happiest Author</hi> for <hi>Bread</hi> that cler <hi>writ<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>Let the <hi>Criticks</hi> fret on;—if they <hi>ſnarl,</hi> thou can'ſt <hi>growl;</hi>
+               </l>
+               <l>If they <hi>bark,</hi> thou can'ſt <hi>bite;</hi> if they <hi>hiſs,</hi> thou can'ſt <hi>howl.</hi>
+               </l>
+            </lg>
+            <lg n="43">
+               <head>XLIII.</head>
+               <l>Thy <hi>Fortune,</hi> whatever they think of the Matter,</l>
+               <l>Is what they'll <hi>all come to,</hi> or ſooner, or later;</l>
+               <l>Upon a <hi>mad Subject</hi> to make a <hi>mad Play,</hi>
+               </l>
+               <l>And write for a <hi>Third Houſe</hi>
+                  <note n="*" place="margin">Bedlam.</note> without any <hi>Third Day.</hi>
+               </l>
+            </lg>
+            <lg n="44">
+               <head>XLIV.</head>
+               <l>Thou haſt told what <hi>Wit</hi> is, in thy <hi>Princeſs of</hi> Cleve,<note n="*" place="margin">In the Epilogue.</note>
+               </l>
+               <l>But thy ſelf and the Reader doth only deceive:</l>
+               <l>Our longing, in vain, thou attempteſt to ſave,</l>
+               <l>And inſtead of being <hi>witty,</hi> doſt nothing but <hi>rave:</hi>
+               </l>
+               <l>So did'ſt thou not once, when <hi>Fortune</hi> was kinder,</l>
+               <l>And the <hi>Theatre</hi> rung with thy <hi>brave</hi> Alexander.</l>
+            </lg>
+            <lg n="45">
+               <head>XLV.</head>
+               <l>Scarce <hi>Raſcius</hi> himſelf could <hi>Goodman</hi> outdo;</l>
+               <l>He <hi>ſpoke</hi> it as well as 'twas <hi>written</hi> by you.</l>
+            </lg>
+            <lg n="46">
+               <head>XLVI.</head>
+               <l>Let's diſpatch to the <hi>Mud-houſe</hi> poor Lunatick <hi>Nat,</hi>
+               </l>
+               <l>And proceed to the <hi>Cream of Sobriety,</hi> T—t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <pb n="11" facs="tcp:96974:8"/>
+               <l>As modeſt as <hi>Virgin</hi> that <hi>knows not what's what,</hi>
+               </l>
+               <l>Nor dares venture beyond his <hi>Pint,</hi> or his <hi>Pot.</hi>
+               </l>
+            </lg>
+            <lg n="47">
+               <head>XLVII.</head>
+               <l>He <hi>others Foundations</hi> has oftentimes built on;</l>
+               <l>For he has writ more <hi>Epiſtles</hi> than <hi>Tully,</hi> or <hi>Milton.</hi>
+               </l>
+            </lg>
+            <lg n="48">
+               <head>XLVIII.</head>
+               <l>A good <hi>Second-Rate-Poet,</hi> and <hi>Faithful Tranſlator;</hi>
+               </l>
+               <l>And if you ask him for <hi>Wit,</hi> he knows ſomething <hi>o'th' Matter.</hi>
+               </l>
+            </lg>
+            <lg n="49">
+               <head>XLIX.</head>
+               <l>For this muſt be ſaid, for his <hi>Credit</hi> and <hi>Profit,</hi>
+               </l>
+               <l>He has choſen a <hi>Patron</hi> that has <hi>enough of it;</hi>
+               </l>
+               <l>Great <hi>Pollio,</hi> who <hi>Judge</hi> of <hi>Parnaſſus</hi> does ſit,</l>
+               <l>And has, <hi>ſpite of his Quality,</hi> Learning and <hi>VVit.</hi>
+               </l>
+            </lg>
+            <lg n="50">
+               <head>L.</head>
+               <l>On the <hi>Shepherd he ſmil'd</hi> when ſo ſweetly he ſung,</l>
+               <l>And the <hi>VVoods</hi> and the <hi>Plains</hi> with his <hi>Paſtorals</hi> rung:</l>
+               <l>How <hi>Nat'ral</hi> each <hi>Stroke,</hi> and how eaſie and <hi>fine;</hi>
+               </l>
+               <l>How curious the <hi>Opening,</hi> how vaſt the <hi>Deſign</hi>
+               </l>
+               <l>Of the <hi>Glories of</hi> William, and <hi>VVonders o'th'</hi> Boyn!</l>
+            </lg>
+            <lg n="51">
+               <head>LI.</head>
+               <l>Go on, <hi>happy Bard,</hi> on ſo Glorious a <hi>Theme;</hi>
+               </l>
+               <l>Go on to the <hi>Rhine</hi>'s or the <hi>Sambre</hi>'s fair <hi>Stream;</hi>
+               </l>
+               <l>Still <hi>riſe with thy Subject,</hi> and <hi>greaten</hi> thy Name,</l>
+               <l>And raviſh the <hi>Laurels</hi> from <hi>S—ll</hi> and Fame.</l>
+            </lg>
+            <lg n="52">
+               <pb n="12" facs="tcp:96974:9"/>
+               <head>LII.</head>
+               <l>Great <hi>William,</hi> our <hi>Honour,</hi> our Safety, and Pride,</l>
+               <l>With all the <hi>Engliſh Heroes</hi> that <hi>fight by his ſide,</hi>
+               </l>
+               <l>(If they are not paſt Number—) ſo generous, ſo kind,</l>
+               <l>All <hi>thoſe who are gone,</hi> or <hi>who tarry behind.</hi>
+               </l>
+            </lg>
+            <lg n="53">
+               <head>LIII.</head>
+               <l>Had <hi>C—n</hi> but had any kind <hi>Prophet's</hi> Advice,</l>
+               <l>And ne'er ſcribled a <hi>Line</hi> but his <hi>Comical Nice,</hi>
+               </l>
+               <l>He'd not peſter'd the <hi>VVorld,</hi> nor peſter'd his <hi>VVriting</hi>
+               </l>
+               <l>With <hi>Nonſenſe</hi> and <hi>Blaſphemy,</hi> Roaring and Fighting.</l>
+            </lg>
+            <lg n="54">
+               <head>LIV.</head>
+               <l>Wou'd he had known while 'twas well, his <hi>Siege</hi>
+                  <note n="*" place="margin">
+                     <hi>Of</hi> Jeruſalem.</note> to give o'er;</l>
+               <l>Content with <hi>one Part,</hi> and not cramm'd us with more!</l>
+               <l>But <hi>twice</hi> on the ſame <hi>dull Subject</hi> to write,</l>
+               <l>Is like <hi>Jimminy Gemminy every Night.</hi>
+               </l>
+            </lg>
+            <lg n="55">
+               <head>LV.</head>
+               <l>If the <hi>Plays</hi> of true <hi>Wit</hi> have ſo little to ſpare,</l>
+               <l>'Tis unlikely to find any more in a <hi>Player:</hi>
+               </l>
+               <l>Yet is it no wonder when the <hi>Authors</hi> want <hi>Senſe,</hi>
+               </l>
+               <l>The <hi>Players</hi> turn <hi>VVriters</hi> in <hi>their own defence.</hi>
+               </l>
+            </lg>
+            <lg n="56">
+               <head>LVI.</head>
+               <l>Since their Buſineſs lies more in their <hi>Tongues,</hi> than their <hi>Brains,</hi>
+               </l>
+               <l>We expect no great Matter from <hi>M—d,</hi> or <hi>H—nes.</hi>
+               </l>
+               <l>Damn our <hi>Play</hi> while you will, if toth <hi>Third Day</hi> it tarries,</l>
+               <l>We'll forgive you, quoth <hi>Pow—ll,</hi> and <hi>Ca</hi>—, and <hi>Ha—is.</hi>
+               </l>
+            </lg>
+            <lg n="57">
+               <pb n="13" facs="tcp:96974:9"/>
+               <head>LVII.</head>
+               <l>The <hi>Theatres</hi> flouriſh'd when <hi>Quality</hi> writ,</l>
+               <l>For they always had <hi>Money,</hi> and ſometimes had <hi>VVit;</hi>
+               </l>
+               <l>But now they for nothing but <hi>States-men</hi> are fit:</l>
+               <l>No—not one ſingle <hi>Line,</hi> tho' the whole <hi>Houſe</hi> beſeeches,</l>
+               <l>Since from <hi>making</hi> of <hi>Plays,</hi> they'r turn'd <hi>Makers of Speeches.</hi>
+               </l>
+            </lg>
+            <lg n="58">
+               <head>LVIII</head>
+               <l>From them to the <hi>Criticks,</hi> at laſt let's repair;</l>
+               <l>'Tis their <hi>Trade,</hi> and we ſure ſhall find ſomewhat on't there;</l>
+               <l>But they, like the reſt, <hi>knew nothing o'th' Matter;</hi>
+               </l>
+               <l>Tho' the <hi>want on't</hi> was richly ſupply'd with <hi>ill-Nature.</hi>
+               </l>
+            </lg>
+            <lg n="59">
+               <head>LIX.</head>
+               <l>'Tis true, Mr. <hi>Ry—r</hi> long paſs'd for a <hi>VVit,</hi>
+               </l>
+               <l>And ſtill might have done ſo, if he <hi>never had writ;</hi>
+               </l>
+               <l>His <hi>Stationer</hi> may for his Profit go whiſtle:</l>
+               <l>But he ſwears all's not <hi>Goſpel</hi> that's in his<note n="*" place="margin">
+                     <hi>Vid.</hi> Title Pag.</note> 
+                  <hi>Epistle.</hi>
+               </l>
+            </lg>
+            <lg n="60">
+               <head>LX.</head>
+               <l>If you think't worth the while, and twon't give <hi>ill example,</hi>
+               </l>
+               <l>Let's next ſearch for <hi>Wit</hi> with the <hi>Students o'th' Temple?</hi>
+               </l>
+               <l>But they heartily vow they have <hi>never a Rag;</hi>
+               </l>
+               <l>For <hi>Counſellor Gripe</hi> has it all in his <hi>Bag.</hi>
+               </l>
+            </lg>
+            <lg n="61">
+               <head>LXI.</head>
+               <l>Nay then we ſhall <hi>find</hi> it; — good Sir, not too faſt!</l>
+               <l>Theſe <hi>Authors</hi> ne'er part with their <hi>Writings</hi> in haſte;</l>
+               <l>As dear as old <hi>Coins,</hi> or old <hi>Manuſcripts</hi> ſell 'em;</l>
+               <l>For they write like the <hi>Monks,</hi> with great <hi>Letters</hi> on <hi>Velom.</hi>
+               </l>
+            </lg>
+            <lg n="62">
+               <pb n="14" facs="tcp:96974:10"/>
+               <head>LXII.</head>
+               <l>Yet there's no <hi>Ballad-Singer,</hi> that louder can baul</l>
+               <l>Than they at the <hi>Sizes,</hi> or <hi>Westminſter-Hall:</hi>
+               </l>
+               <l>A <hi>Cuſtomer</hi> ſeldom of their <hi>Dulneſs</hi> complains;</l>
+               <l>No matter for the <hi>Text,</hi> ſo they baul, and <hi>take pains:</hi>
+               </l>
+               <l>Hold out <hi>Brow</hi> and <hi>Lungs,</hi> there's no need of any <hi>Brains.</hi>
+               </l>
+            </lg>
+            <lg n="63">
+               <head>LXIII.</head>
+               <l>If, as there's no <hi>Lawyer</hi> e'er doubted it yet,</l>
+               <l>'Tis <hi>getting</hi> of <hi>Money</hi>'s the only true <hi>Wit;</hi>
+               </l>
+               <l>Let him <hi>write</hi> what he will, by Rote, or by Ruſe,</l>
+               <l>In <hi>Proſe,</hi> or in <hi>Verſe,</hi> little <hi>At—d</hi>'s a <hi>Fool.</hi>
+               </l>
+            </lg>
+            <lg n="64">
+               <head>LXIV.</head>
+               <l>But whether old <hi>Propheſies</hi> he will unveil,</l>
+               <l>Or cracks your grave <hi>Doctors</hi> like <hi>Nits,</hi> with his <hi>Nail.</hi>
+               </l>
+               <l>He's the <hi>Civilest</hi> Author that you meet with e'er can, Sir,</l>
+               <l>For he'll ne'er write a thing that <hi>another can't anſwer.</hi>
+               </l>
+            </lg>
+            <lg n="65">
+               <head>LXV.</head>
+               <l>I was juſt a concluding, when, who ſhou'd I meet,</l>
+               <l>But two <hi>Ballad-Singers,</hi> that ſtunn'd all the <hi>Street;</hi>
+               </l>
+               <l>Whoſe <hi>Tails</hi> ſtill kept Time to their <hi>Mouth</hi>'s Modulation,</l>
+               <l>Whoſe <hi>Hats</hi> were both fix'd to the right, <hi>Elevation.</hi>
+               </l>
+            </lg>
+            <lg n="66">
+               <head>LXVI.</head>
+               <l>I know not how 'twas, but my <hi>Buſineſs they knew,</hi>
+               </l>
+               <l>And fain wou'd for <hi>Wits</hi> have been <hi>regiſtred</hi> too;</l>
+               <l>No Anſwer they'd take, tho' I <hi>laugh'd</hi> at the <hi>Fancy,</hi>
+               </l>
+               <l>And ask'd 'em, if any thing for't they can ſay?</l>
+            </lg>
+            <lg n="67">
+               <pb n="15" facs="tcp:96974:10"/>
+               <head>LXVII.</head>
+               <l>At which one gravely cries; — ſince ſuch, Sir, your <hi>Will</hi> is,</l>
+               <l>May I never more <hi>rattle Philander</hi> or <hi>Phillis:</hi>
+               </l>
+               <l>If we cannot ſay <hi>more</hi> for our own <hi>Occupation,</hi>
+               </l>
+               <l>Than all th' <hi>Haberdaſhers of Wit</hi> in the Nation.</l>
+            </lg>
+            <lg n="68">
+               <head>LXVIII.</head>
+               <l>No <hi>Author</hi> unleſs he's <hi>cramm'd</hi> full of <hi>Iniquity,</hi>
+               </l>
+               <l>And <hi>Falſhood,</hi> can ever deny our <hi>Antiquity:</hi>
+               </l>
+               <l>
+                  <hi>We only,</hi> how much now ſeever they ſlight us,</l>
+               <l>Were the <hi>Primitive Riſe</hi> of all <hi>Poets</hi> and <hi>Writers.</hi>
+               </l>
+            </lg>
+            <lg n="69">
+               <head>LXIX.</head>
+               <l>Old <hi>Homer,</hi> as l've heard that old <hi>Hiſtories</hi> tell,</l>
+               <l>Went <hi>begging</hi> about with a <hi>Dog and a Bell:</hi>
+               </l>
+               <l>He <hi>ſung,</hi> his Dog <hi>danc'd,</hi> not a <hi>Wake</hi> or a <hi>Fair</hi>
+               </l>
+               <l>Through <hi>Greece,</hi> but the <hi>jolly blind Beggar</hi> was there.</l>
+            </lg>
+            <lg n="70">
+               <head>LXX.</head>
+               <l>Now at <hi>Smyrna,</hi> or <hi>Athens,</hi> perhaps, his Abode's;</l>
+               <l>Then a <hi>Sculler</hi> he'd take, and <hi>croſs</hi> over to <hi>Rhodes.</hi>
+               </l>
+               <l>From <hi>Tithing to Tithing,</hi> ſtill <hi>ſtrolling</hi> about,</l>
+               <l>Where ever he comes <hi>in</hi> his <hi>Way</hi> he's not <hi>out.</hi>
+               </l>
+            </lg>
+            <lg n="71">
+               <head>LXXI.</head>
+               <l>Till once <hi>out of the Road</hi> he unluckily ſtrays—a;</l>
+               <l>With a <hi>Nipperkin</hi> fuddl'd of <hi>Chios</hi>
+                  <note n="*" place="margin">Rich Wines which anciently grew there.</note> or <hi>Gaza;</hi>
+                  <note n="*" place="margin">Rich Wines which anciently grew there.</note>
+               </l>
+               <l>And as the <hi>Bank-ſide</hi> he wou'd fain have <hi>ſurrounded,</hi>
+               </l>
+               <l>His <hi>Dog</hi> with the <hi>Sight</hi> of the <hi>Water</hi> conſounded,</l>
+               <l>They ſell <hi>over the Key,</hi> and were both on 'em <hi>drounded.</hi>
+               </l>
+            </lg>
+            <lg n="72">
+               <pb n="16" facs="tcp:96974:11"/>
+               <head>LXXII.</head>
+               <l>Thus he dy'd without Trouble of <hi>Burial</hi> or <hi>Herſe;</hi>
+               </l>
+               <l>There's an <hi>end</hi> of the <hi>Poet,</hi>—but not of his <hi>Verſe:</hi>
+               </l>
+               <l>For his <hi>Ballads</hi> were reſcu'd from the <hi>Moth,</hi> and the <hi>Mouſe,</hi>
+               </l>
+               <l>And <hi>paſted</hi> up ſafely in every <hi>good Houſe.</hi>
+               </l>
+            </lg>
+            <lg n="73">
+               <head>LXXIII.</head>
+               <l>Well <hi>reſt his ſweet Bones,</hi> while <hi>ours</hi> are ſtill <hi>jogging,</hi>
+               </l>
+               <l>Every <hi>Night</hi> we his <hi>Memory</hi> treat with a <hi>Noggin;</hi>
+               </l>
+               <l>Though the <hi>Poets,</hi> to cheat us of the <hi>Honour</hi> deſign,</l>
+               <l>'Tis <hi>we are his Succeſſors in the right Line.</hi>
+               </l>
+            </lg>
+            <lg n="74">
+               <head>LXXIV.</head>
+               <l>How proud is this <hi>Age,</hi> and how <hi>ſilly</hi> too grown,</l>
+               <l>When <hi>Men</hi> their own <hi>Trades are aſhamed to own:</hi>
+               </l>
+               <l>There's none we need <hi>bluſh</hi> for, if we <hi>get Money</hi> by it;</l>
+               <l>And were I a <hi>Tom T—d-man,</hi> I'd certainly <hi>cry it.</hi>
+               </l>
+            </lg>
+            <lg n="75">
+               <head>LXXV.</head>
+               <l>The <hi>Doctor,</hi> Forſooth, thinks his <hi>Fingers</hi> 'twould <hi>bliſter,</hi>
+               </l>
+               <l>To <hi>make up</hi> a <hi>Bolus,</hi> or <hi>ſquirt up</hi> a <hi>Clyſter:</hi>
+               </l>
+               <l>And whilſt in his <hi>Coach</hi> his <hi>Pleaſure</hi> he takes,</l>
+               <l>He out of his <hi>Footman</hi> a <hi>'pothecary</hi> makes.</l>
+            </lg>
+            <lg n="76">
+               <head>LXXVI.</head>
+               <l>Thus the <hi>Poet</hi> pretends, by his prudent <hi>Advices,</hi>
+               </l>
+               <l>When firſt he had brought them to a dangerous <hi>Criſis,</hi>
+               </l>
+               <l>To <hi>cure</hi> Men's <hi>Minds</hi> of <hi>Follies and Vices:</hi>
+               </l>
+               <l>But to <hi>act</hi> in't <hi>himſelf,</hi> after all, he's too <hi>proud;</hi>
+               </l>
+               <l>'Tis <hi>we</hi> with the <hi>Medicines</hi> muſt <hi>travel</hi> abroad.</l>
+            </lg>
+            <lg n="77">
+               <pb n="17" facs="tcp:96974:11"/>
+               <head>LXXVII.</head>
+               <l>Thus enter'd, I thought he would ne'er have give o'er,</l>
+               <l>Till one ask'd for a <hi>Ballad,</hi> and I heard him no more.</l>
+               <l>Quite tired with my <hi>Search,</hi> I home agen <hi>trotted,</hi>
+               </l>
+               <l>And had no more <hi>Wit</hi> than when I firſt ſought it.</l>
+            </lg>
+            <lg n="78">
+               <head>LXXVIII.</head>
+               <l>Thus weary of doing nothing, to my <hi>Garret</hi> I come;</l>
+               <l>And ſince I loſt it <hi>abroad,</hi> would ſeek it at <hi>home:</hi>
+               </l>
+               <l>But for Fear I there too ſhould happen to miſs,</l>
+               <l>I'll firſt make a <hi>modeſt Enquiry</hi> what 'tis.</l>
+            </lg>
+            <lg n="79">
+               <head>LXXIX.</head>
+               <l>'Tis a <hi>Thing</hi> that's more eaſie to <hi>know</hi> than <hi>expreſs;</hi>
+               </l>
+               <l>'Tis <hi>all the Creation</hi> in its <hi>Holyday-Dreſs:</hi>
+               </l>
+               <l>'Tis a pleaſant <hi>gay Humuor,</hi> not <hi>ſullen,</hi> nor <hi>proud,</hi>
+               </l>
+               <l>Ridiculous, fawcy, or noiſie, or loud.</l>
+            </lg>
+            <lg n="80">
+               <head>LXXX.</head>
+               <l>'Tis not made of <hi>New Banter,</hi> or merry <hi>Old Tales,</hi>
+               </l>
+               <l>Like his, who late <hi>laſh'd</hi> the poor <hi>Curate of</hi> Wales;</l>
+               <l>If that, or if <hi>Simidies</hi> either were it,</l>
+               <l>The <hi>Old Woman,</hi> or <hi>School Boy</hi> might paſs for a <hi>VVit.</hi>
+               </l>
+            </lg>
+            <lg n="81">
+               <head>LXXXI.</head>
+               <l>Tis not <hi>Hunting,</hi> or <hi>Hawking,</hi> or <hi>Riding,</hi> or <hi>Fencing,</hi>
+               </l>
+               <l>Or <hi>Cringing,</hi> or <hi>Riping,</hi> or <hi>Singing,</hi> or <hi>Dancing,</hi>
+               </l>
+               <l>'Tis not <hi>breaking VVindows,</hi> nor <hi>Scowring,</hi> nor <hi>Roaring,</hi>
+               </l>
+               <l>Nor <hi>Felling a VVatchman,</hi> nor <hi>Swearing,</hi> nor <hi>VVhoring.</hi>
+               </l>
+            </lg>
+            <lg n="82">
+               <pb n="18" facs="tcp:96974:12"/>
+               <head>LXXXII.</head>
+               <l>It does what it <hi>pleaſes,</hi> is <hi>Proof</hi> againſt <hi>Fate,</hi>
+               </l>
+               <l>Can a thouſand new <hi>Forms</hi> in a moment <hi>create;</hi>
+               </l>
+               <l>The <hi>Philoſopher's-Stone,</hi> for no <hi>Price</hi> to be <hi>ſold,</hi>
+               </l>
+               <l>Which all things it touches, <hi>converts into Gold.</hi>
+               </l>
+            </lg>
+            <lg n="83">
+               <head>LXXXIII.</head>
+               <l>Not a cool <hi>Summer-Evening,</hi> nor a warm <hi>Winters-Day,</hi>
+               </l>
+               <l>Nor a <hi>Miſtreſs</hi> her ſelf is ſo <hi>pleaſing,</hi> and <hi>gay;</hi>
+               </l>
+               <l>Nor <hi>Empire,</hi> for which the <hi>Ambitious</hi> contend,</l>
+               <l>For theſe muſt all <hi>fail;</hi> but <hi>Wit's Charms</hi> never end.</l>
+            </lg>
+            <lg n="84">
+               <head>LXXXIV.</head>
+               <l>'Tis not when two <hi>Syllables jangle,</hi> or <hi>chime,</hi>
+               </l>
+               <l>Nor puzzling, dull <hi>Anagrammatical Rhime,</hi>
+               </l>
+               <l>
+                  <hi>Hard Words,</hi> or <hi>wiſe Sentences,</hi> ſpoke by old <hi>Sages,</hi>
+               </l>
+               <l>To <hi>help</hi> at <hi>Dead-Lifts</hi> in all future <hi>Ages.</hi>
+               </l>
+            </lg>
+            <lg n="85">
+               <head>LXXXV.</head>
+               <l>For this ſtrange <hi>Camelion</hi> where then ſhall we <hi>ſeek;</hi>
+               </l>
+               <l>'Tis not <hi>Bawdy,</hi> nor <hi>Banter,</hi> nor <hi>Latin</hi> and <hi>Greek;</hi>
+               </l>
+               <l>'Tis not <hi>Oaths,</hi> nor <hi>ill Nature,</hi> the <hi>Blood</hi>'s ſour <hi>Diſeaſe,</hi>
+               </l>
+               <l>Nor <hi>Language as ill,</hi> though that better will <hi>pleaſe.</hi>
+               </l>
+            </lg>
+            <lg n="86">
+               <head>LXXXVI.</head>
+               <l>'Tis all that is lovely, and ſprightly, and fair;</l>
+               <l>'Tis a <hi>Flaſh</hi> when the <hi>Soul</hi> comes abroad to <hi>take Air;</hi>
+               </l>
+               <l>'Tis a <hi>Flame</hi> can the <hi>Sun</hi>'s paler <hi>Splendor</hi> outſhine;</l>
+               <l>'Tis <hi>unhounded, eternal, immortal, divine.</hi>
+               </l>
+            </lg>
+            <lg n="87">
+               <pb n="19" facs="tcp:96974:12"/>
+               <head>LXXXVII.</head>
+               <l>No <hi>Monarch</hi> ſo <hi>bleſs'd,</hi> or ſo <hi>happy</hi> as me,</l>
+               <l>While thus, my dear <hi>Horace,</hi> I <hi>hug it in thee:</hi>
+               </l>
+               <l>
+                  <hi>Admire</hi> it in <hi>loftier Virgil,</hi> or <hi>Smile</hi>
+               </l>
+               <l>When with <hi>Waggiſh Catullus</hi> my Cares I'd beguile.</l>
+            </lg>
+            <lg n="88">
+               <head>LXXXVIII.</head>
+               <l>When with thee, <hi>Arioſto,</hi> or <hi>Taſſo,</hi> I ſport,</l>
+               <l>Or go with our <hi>Spencer</hi> to his <hi>Fairy-Court,</hi>
+               </l>
+               <l>Or <hi>Cowley,</hi> or <hi>Oldham,</hi> or <hi>Davenant</hi> purſue,</l>
+               <l>Or ſpend a few Hours, neat <hi>Waller,</hi> with you.</l>
+            </lg>
+            <lg n="89">
+               <head>LXXXIX.</head>
+               <l>Here I <hi>read</hi> till I'm quite into <hi>Ecſtaſies</hi> carry'd,</l>
+               <l>Aſſoon as the <hi>Sun</hi> peeps into my <hi>Garret;</hi>
+               </l>
+               <l>There, out of the reach of ill <hi>Fate,</hi> and <hi>Diſaſter,</hi>
+               </l>
+               <l>I ſit; and the <hi>Drawer</hi>'s as <hi>great</hi> as his <hi>Maſter.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
